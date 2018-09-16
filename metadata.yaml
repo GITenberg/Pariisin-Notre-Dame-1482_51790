@@ -1,0 +1,40 @@
+_repo: Pariisin-Notre-Dame-1482_51790
+_version: 0.0.1
+alternative_title: Notre-Dame de Paris. Finnish
+contributor:
+  translator:
+    agent_name: Jalkanen, Huugo
+    birthdate: 1888
+    deathdate: 1969
+    gutenberg_agent_id: '49131'
+    url: http://www.gutenberg.org/2009/agents/49131
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_issued: '2016-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51790'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romances'
+- !lcsh 'Paris (France) -- History -- To 1515 -- Fiction'
+- !lcsh 'France -- History -- Louis XI, 1461-1483 -- Fiction'
+- !lcsh 'People with disabilities -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Notre-Dame de Paris (Cathedral) -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Pariisin Notre-Dame 1482
+url: http://www.gutenberg.org/ebooks/51790
